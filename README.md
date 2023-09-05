@@ -1,4 +1,4 @@
-<h1 align=center>OFICINA-SEMAFORO-ARDUINO</h1>
+<h1 align=center>OFICINA-ARDUINO-SEMAFORO</h1>
 
 <p align="center">
   <img src="etec.png" width="500">
@@ -17,5 +17,5 @@
 ### CONTRIBUIÇÃO
 
 ```
-$ git clone https://github.com/kaiquesouzasantos/etec199-2023-oficina-semaforo-arduino.git 
+$ git clone https://github.com/kaiquesouzasantos/etec199-2023-oficina-arduino-semaforo.git 
 ```
