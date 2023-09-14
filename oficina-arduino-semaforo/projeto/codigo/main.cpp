@@ -22,9 +22,9 @@ void loop() {
     // digitalRead(portaArduino) -> retorna o estado da porta(HIGH/LOW)
 
     if(digitalRead(BOTAO) == HIGH){
-        verdeParaVermelhoCarro();
+        verdeParaVermelho();
         delay(5000);
-        vermelhoParaVerdeCarro();
+        vermelhoParaVerde();
     }
 }
 
