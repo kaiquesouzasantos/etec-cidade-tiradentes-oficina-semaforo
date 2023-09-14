@@ -7,7 +7,7 @@
 #
 ### SOBRE
 
-- Oficina ministrada por Kaique Souza Santos, objetivando a introdução dos alunos do 1° ano do curso MTEC - Desenvolvimento de Sistemas ao desenvolvimento com Arduino, através da confecção de um semáforo. Sendo realizado na ETEC CIDADE TIRADENTES no dia 13 de setembro de 2023.
+- Oficina ministrada por Kaique Souza Santos, objetivando a introdução dos alunos do 1° ano do curso MTEC - Desenvolvimento de Sistemas ao desenvolvimento com Arduino, através da confecção de um semáforo. Desenvolvendo Logica de Programação Funcional, Manipulação de Hardware e Conceitos Eletrônicos. Sendo realizado na ETEC CIDADE TIRADENTES no dia 14 de setembro de 2023.
 
 #
 ### TECNOLOGIAS
