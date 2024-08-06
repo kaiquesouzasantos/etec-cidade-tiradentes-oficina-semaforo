@@ -1,4 +1,4 @@
-<h1 align=center>OFICINA-ARDUINO-SEMAFORO</h1>
+<h1 align=center>🧮 ETEC CIDADE TIRADENTES - OFICINA DE ARDUINO - SEMÁFORO</h1>
 
 <p align="center">
   <img src="etec.png" width="500">
@@ -19,5 +19,5 @@
 ### 🔗 CONTRIBUIÇÃO
 
 ```
-$ git clone https://github.com/kaiquesouzasantos/etec199-2023-oficina-arduino-semaforo.git 
+$ git clone https://github.com/kaiquesouzasantos/etec-cidade-tiradentes-oficina-semaforo.git 
 ```
